@@ -1,0 +1,4 @@
+libbpf source: file-without-copyright-information
+libbpf source: no-debian-changes
+libbpf source: not-binnmuable-any-depends-any
+libbpf source: weak-library-dev-dependency
