@@ -1,0 +1,7 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+libbpf-dev
+libbpf1
+tmp

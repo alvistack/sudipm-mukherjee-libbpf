@@ -1,0 +1,4 @@
+libbpf1: copyright-without-copyright-notice
+libbpf1: empty-binary-package
+libbpf1: initial-upload-closes-no-bugs
+libbpf1: zero-byte-file-in-doc-directory
